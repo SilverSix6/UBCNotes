@@ -4,3 +4,5 @@
 
 ## [QSCU Notes :](/QSCU%20Notes/)
 - [GitHub Workshop](QSCU%20Notes/GitHub%20Workshop.md)
+
+### Aidan Johnson and Talon Lusk - 2022
