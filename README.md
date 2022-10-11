@@ -1,8 +1,8 @@
 # UBCNotes
 ## [COSC301 :](COSC301)
-- [Python Data Types](COSC301/Python%20Data%20Types.md)
+- [Python Data Types](Python_Data_Types.md)
 
-## [QSCU Notes :](/QSCU%20Notes/)
-- [GitHub Workshop](QSCU%20Notes/GitHub%20Workshop.md)
+## [QSCU Notes :](/QSCU_Notes/)
+- [GitHub Workshop](GitHub_Workshop.md)
 
-###### Aidan Johnson and Talon Lusk - 2022
+###### Aidan Morris and Talon Lusk - 2022
